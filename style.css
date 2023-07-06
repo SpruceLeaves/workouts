@@ -1,4 +1,13 @@
-header {
-    color: blue;
+*{
+    margin: 0;
+    padding:0;
 }
-
+.header {
+    color: wheat;
+    font-size: 50px;
+    background-image: url("./media/barbell.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 320px;
+    margin: 0 auto;
+}
